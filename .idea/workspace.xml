@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60d25568-34cb-4e63-8ed9-bf7da17230e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitStart/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitStart/.idea/GitStart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitStart/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitStart/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitStart/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitStart/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitStart/dropbox-sdk-java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitStart/git-basics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitStart/src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skillbox/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skillbox/.idea/Skillbox.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skillbox/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skillbox/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skillbox/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skillbox/lesson3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skillbox/lesson3task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skillbox/lesson3task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skillbox/lesson3task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skillbox/lesson4task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skillbox/lesson4task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-basics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-basics/.idea/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-basics/.idea/.idea/.idea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-basics/.idea/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-basics/.idea/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-basics/.idea/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-basics/.idea/git-basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-basics/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-basics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-basics/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-basics/.idea/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Second/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Second/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xr2B4gmQdg1sQyEbBE2Rn8Z1fp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Second/README.md" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60d25568-34cb-4e63-8ed9-bf7da17230e4" name="Changes" comment="" />
+      <created>1631098748398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631098748398</updated>
+    </task>
+    <servers />
+  </component>
+</project>
